@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:ignore="ExtraText">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navbtn1"
+            android:title="공지사항"/>
+        <item
+             android:id="@+id/navbtn2"
+             android:title="교수/연구실"/>
+        <item
+             android:id="@+id/navbtn3"
+             android:title="학사일정"/>
+        <item
+            android:id="@+id/navbtn4"
+             android:title="학부사무실"/>
+    </group>
+</menu>
