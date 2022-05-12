@@ -41,6 +41,12 @@
                 android:layout_height="450dp"
                 app:srcCompat="@drawable/calendar_image" />
 
+            <ImageView
+                android:id="@+id/calendar_imageView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                app:srcCompat="@drawable/calendar_image" />
+
         </LinearLayout>
     </ScrollView>
 
